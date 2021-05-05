@@ -65,13 +65,6 @@ footer:
       style: icon
       icon_class: linkedin
       new_window: true
-    - type: action
-      template: action
-      label: DEV
-      url: 'https://dev.to/'
-      style: icon
-      icon_class: dev
-      new_window: true
   has_subscribe: true
   subscribe_title: Subscribe for new updates
   subscribe_content: >-
