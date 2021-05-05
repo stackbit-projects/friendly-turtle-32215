@@ -105,3 +105,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://friendly-turtle-32215.netlify.app'
