@@ -35,9 +35,9 @@ footer:
   type: footer
   template: footer
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
+    &copy; eric laurits. All rights reserved. This Jamstack site was created
+    with <a href="https://www.stackbit.com/?utm_source=deployed-footer"
+    target="_blank" rel="noopener">Stackbit</a>. Create yours <a
     href="https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer"
     target="_blank" rel="noopener">now</a>.
   has_social: true
